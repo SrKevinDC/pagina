@@ -1,3 +1,3 @@
-export function generarAlerta() {
+ function generarAlerta() {
   alert("¡Tu pc va a explotar!");
 }
