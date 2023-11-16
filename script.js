@@ -1,3 +1,1 @@
- export function generarAlerta() {
-  alert("¡Tu pc va a explotar!");
-}
+export const generarAlerta = () => alert("Tu pc va a explotar");
